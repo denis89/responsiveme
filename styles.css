@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+.text2 {
+    display: block;
+    font-size: 16px;
+    color: #969696;
+}
+
+span {
+    font-size: 24px;
+    color: #969696;
+}
+
+.logo {
+    max-height: 100%;
+    width: 20%;
+    float: left;
+}
+
+h1 {
+    text-align: right;
+    float: left;
+    padding-top: 5%;
+    width: 80%;
+    font-weight: normal;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+p { 
+    text-align: right;
+    float: left;
+    padding-top: 3%;
+    width: 80%;
+    font-weight: normal;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
